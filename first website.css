@@ -25,6 +25,11 @@ section {
 	padding-top: 20px;
 }
 
+li {
+  text-align: left;	
+  margin-left: 10px;
+}
+
 .experiences {
 	display: grid;
 	grid-template-columns: 50% 50%;
